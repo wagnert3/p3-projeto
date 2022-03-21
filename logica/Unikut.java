@@ -3,6 +3,6 @@ package logica;
 //lista de contas
 
 
-public class unikut {
+public class Unikut {
     
 }
